@@ -1,0 +1,59 @@
+.resimslider {
+    height: 600px;
+}
+
+.sliderboyut {
+    width: 77%;
+    margin: 20px auto;
+
+}
+
+/* 
+<uniquifier>: Use a unique and descriptive class name
+<weight>: Use a value from 300 to 800 
+*/
+
+.ekippp:hover {
+    opacity: 0.8;
+}
+
+body {
+    padding-top: 50px;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+    background-color: rgb(226, 216, 216);
+}
+
+.hakkimizdaa {
+    background-color: rgb(226, 216, 216);
+}
+
+
+.a {
+    border: none;
+    border-top: 3px solid rgb(68, 0, 255);
+    max-width: 250px;
+    margin: 25px auto;
+}
+
+.ibeyaz {
+    color: #343a40;
+    position: relative;
+    top: -60px;
+    font-size: 50px;
+    border: 10px solid rgb(226, 216, 216);
+    background-color: rgb(226, 216, 216);
+
+}
+
+.figure-img:hover{
+    opacity: 0.8;
+}
+
+.form-group{
+    margin-bottom: 20px;
+}
